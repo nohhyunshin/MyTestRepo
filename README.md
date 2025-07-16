@@ -23,3 +23,13 @@ Markdown 😸
 1 Markdown
 
 + Markdown
+* Markdown
+- Markdown
+
+---
+***
+___
+
+[] 체크 박스
+[x] 체크 박스
+
